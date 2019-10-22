@@ -1,0 +1,10 @@
+@article{ren2017quickest,
+  title={Quickest Change Detection with Observation Scheduling},
+  author={Ren, Xiaoqiang and Johansson, Karl H and Shi, Ling},
+  journal={IEEE Transactions on Automatic Control},
+  volume={62},
+  number={6},
+  pages={2635--2647},
+  year={2017},
+  publisher={IEEE}
+}

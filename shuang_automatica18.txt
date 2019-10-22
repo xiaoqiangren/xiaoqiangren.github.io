@@ -1,0 +1,9 @@
+@article{wu2018optimal,
+  title={Optimal scheduling of multiple sensors over shared channels with packet transmission constraint},
+  author={Wu, Shuang and Ren, Xiaoqiang and Dey, Subhrakanti and Shi, Ling},
+  journal={Automatica},
+  volume={96},
+  pages={22--31},
+  year={2018},
+  publisher={Elsevier}
+}

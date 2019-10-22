@@ -1,0 +1,9 @@
+@article{ren2018attack,
+  title={Attack allocation on remote state estimation in multi-systems: Structural results and asymptotic solution},
+  author={Ren, Xiaoqiang and Wu, Junfeng and Dey, Subhrakanti and Shi, Ling},
+  journal={Automatica},
+  volume={87},
+  pages={184--194},
+  year={2018},
+  publisher={Elsevier}
+}

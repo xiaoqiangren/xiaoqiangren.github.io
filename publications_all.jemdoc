@@ -1,0 +1,43 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= Publications
+
+If you have any problem in accessing the following papers online, please feel free to contact me.
+== Journal Articles
+. Kemi Ding, *Xiaoqiang Ren*\*, Daniel E. Quevedo, Subhrakanti Dey and Ling Shi, /Deception-based Strategic Transmission for Remote State Estimation under DoS Attacks/, *Automatica*, Submitted.
+. Shuang Wu, *Xiaoqiang Ren*\*, Subhrakanti Dey and Ling Shi, /Optimal Scheduling of Multiple Sensors over Shared Channels with Packet Transmission Constraint/, *Automatica*, Submitted.
+. *Xiaoqiang Ren* and Yilin Mo, /Secure Detection: Performance Metric and Sensor Deployment Strategy/, *IEEE Transactions on Signal Processing*, Submitted.
+. Kemi Ding, *Xiaoqiang Ren*\*, Subhrakanti Dey and Ling Shi, /DoS Attacks on Remote State Estimation with Asymmetric Information/, *IEEE Transactions on Control of Network Systems*, Submitted.
+. *Xiaoqiang Ren*, Jiaqi Yan and Yilin Mo, /Binary Hypothesis Testing with Byzantine Sensors: Fundamental Trade-off Between Security and Efficiency/, *IEEE Transactions on Signal Processing*, Accepted.
+. Chao Yang, Jianying Zheng, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, /Multi-Sensor Kalman Filtering with Intermittent Measurements/, *IEEE Transactions on Automatic Control*, Accepted. [chao_TAC17_multi-sensor.pdf \[pdf\]] [chao_TAC17_multi-sensor.txt \[BibTex\]]
+. *Xiaoqiang Ren*, Junfeng Wu, Subhrakanti Dey and Ling Shi, /Attack Allocation on Remote State Estimation in Multi-Systems: Structural Results and Asymptotic Solution/, *Automatica*, Volume 87, Pages 184-194, January 2018. {{<font color=red><b>}}(Regular paper){{</b></font>}}
+[xiaoqiang_auto17_multi-armed_bandit.pdf \[pdf\]] [xiaoqiang_auto17_multi-armed_bandit.txt \[BibTex\]]
+. *Xiaoqiang Ren*, Junfeng Wu, Karl H. Johansson, Guodong Shi and Ling Shi,  /Infinite Horizon Optimal Transmission Power Control for Remote State Estimation over Fading Channels/, *IEEE Transactions on Automatic Control*, Accepted. {{<font color=red><b>}}(Full paper){{</b></font>}} [xiaoqiang_TAC17_event_based_power.pdf \[pdf\]] [xiaoqiang_TAC17_event_based_power.txt \[BibTex\]]
+. *Xiaoqiang Ren*, Karl H. Johansson and Ling Shi, /Quickest Change Detection with Observation Scheduling/, *IEEE Transactions on Automatic Control*, Volume 62, No. 6, Pages 2635 - 2647, 2017. {{<font color=red><b>}}(Full paper){{</b></font>}}
+[xiaoqiang_TAC17_QCD_observation_scheduling.pdf \[pdf\]] [xiaoqiang_TAC17_QCD_observation_scheduling.txt \[BibTex\]]
+. *Xiaoqiang Ren*, Karl H. Johansson, Dawei Shi and Ling Shi, /Quickest Change Detection in Adaptive Censoring Networks/, *IEEE Transactions on Control of Network Systems*, Accepted.
+[xiaoqiang_TCNS17_QCD_adaptive_censoring.pdf \[pdf\]] [xiaoqiang_TCNS17_QCD_adaptive_censoring.txt \[BibTex\]] 
+. Junfeng Wu, *Xiaoqiang Ren*, Duo Han, Dawei Shi and Ling Shi, /Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications/, *Automatica*, Volume 72, Pages 100 - 107, 2016. 
+[junfeng_Auto16_stochastic_event_based.pdf \[pdf\]] [junfeng_Auto16_stochastic_event_based.txt \[BibTex\]]
+. Chao Yang, Junfeng Wu, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, /Deterministic Sensor Selection for Centralized State Estimation Under Limited Communication Resource/,  *IEEE Transactions on Signal Processing*, Volume 63, Issue 9, Pages 2336 - 2348, 2015.
+[chao_TSP15_sensor_selection_kalman_filter.pdf \[pdf\]][chao_TSP15_sensor_selection_kalman_filter.txt \[BibTex\]]
+== Conference Proceedings
+. Qipeng Liu, *Xiaoqiang Ren* and Yilin Mo, /Secure and Privacy Preserving Average Consensus/, *The 2017 Asian Control Conference*, Gold Coast, Australia, Dec 2017.
+. Jiaqi Yan, *Xiaoqiang Ren* and Yilin Mo, /Sequential Detection in Adversarial Environment/, *The 56th IEEE Conference on Decision and Control*, Melbourne, Australia, Dec 2017.
+. Xinghua Liu, Yilin Mo and *Xiaoqiang Ren*, /Security Analysis of Continuous-Time Cyber-Physical System Against Sensor Attacks/, *13th Conference on Automation Science and Engineering*, Xi'an, China, August 2017.
+. Shuang Wu, *Xiaoqiang Ren*, Subhrakanti Dey, Ling Shi, /Optimal Scheduling of Multiple Sensors with Packet Length Constraint/, *The 20th World Congress of the International Federation of Automatic Control*, Toulouse,
+France, July 2017.
+. Kemi Ding, *Xiaoqiang Ren* and Ling Shi, /Deception-based Sensor Scheduling for Remote Estimation under DoS Attacks/, *6th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys)*, Tokyo, Japan, September 2016.
+. Chao Yang, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi,  /Jamming Attack in Centralized State Estimation/,  *34th Chinese Control Conference*, Hangzhou, China, July 2015.
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7260666 \[pdf\]]
+. *Xiaoqiang Ren*, Yilin Mo and Ling Shi, /Optimal DoS Attacks on Bayesian Quickest Change Detection/, *The 53rd IEEE Conference on Decision and Control*, Los Angeles, CA, USA, Dec 2014.
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7039975 \[pdf\]]
+. *Xiaoqiang Ren* and Ling Shi, /Decentralized Detection with Censoring Sensors over a Packet-dropping Network/, *The 19th World Congress of the International Federation of Automatic Control*, Cape Town, South Africa, Aug 2014.
+[http://ac.els-cdn.com/S1474667016417799/1-s2.0-S1474667016417799-main.pdf?_tid=740a5890-8891-11e6-9834-00000aacb362&acdnat=1475407078_51176a7dda1d272486d915350e01a84c \[pdf\]]
+. Chao Yang, *Xiaoqiang Ren*, Jianying Zheng and Ling Shi, /Sensor Scheduling for Communication Resource Minimization in Centralized State Estimation/, 
+   *IEEE International Conference on Information and Automation \& IEEE International Conference on Automation and Logistics*,  Hulun Buir, Inner Mongolia, China, July 2014.
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6932825 \[pdf\]]  
+. *Xiaoqiang Ren* and Ling Shi,  /Bayesian Quickest Change Detection under Energy Constraints over Wireless Sensor Networks with Correlated Fading Channels/, 
+   *The 11th IEEE International Conference on Control \& Automation*, Taichung, Taiwan, June 2014.
+[http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=6871091 \[pdf\]]
+   
+   

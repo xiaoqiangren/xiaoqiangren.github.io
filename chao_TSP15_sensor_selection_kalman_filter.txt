@@ -1,0 +1,10 @@
+@article{yang2015deterministic,
+  title={Deterministic sensor selection for centralized state estimation under limited communication resource},
+  author={Yang, Chao and Wu, Junfeng and Ren, Xiaoqiang and Yang, Wen and Shi, Hongbo and Shi, Ling},
+  journal={IEEE transactions on signal processing},
+  volume={63},
+  number={9},
+  pages={2336--2348},
+  year={2015},
+  publisher={IEEE}
+}

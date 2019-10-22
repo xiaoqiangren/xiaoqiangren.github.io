@@ -1,0 +1,9 @@
+@article{wu2016finite,
+  title={Finite-horizon Gaussianity-preserving event-based sensor scheduling in Kalman filter applications},
+  author={Wu, Junfeng and Ren, Xiaoqiang and Han, Duo and Shi, Dawei and Shi, Ling},
+  journal={Automatica},
+  volume={72},
+  pages={100--107},
+  year={2016},
+  publisher={Elsevier}
+}

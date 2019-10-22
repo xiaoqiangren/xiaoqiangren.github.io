@@ -1,0 +1,9 @@
+@article{yang2018multi,
+  title={Multi-sensor kalman filtering with intermittent measurements},
+  author={Yang, Chao and Zheng, Jianying and Ren, Xiaoqiang and Yang, Wen and Shi, Hongbo and Shi, Ling},
+  journal={IEEE Transactions on Automatic Control},
+  volume={63},
+  number={3},
+  pages={797--804},
+  year={2018}
+}

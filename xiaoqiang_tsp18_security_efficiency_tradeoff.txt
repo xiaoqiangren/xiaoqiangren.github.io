@@ -1,0 +1,10 @@
+@article{ren2018binary,
+  title={Binary Hypothesis Testing With Byzantine Sensors: Fundamental Tradeoff Between Security and Efficiency},
+  author={Ren, Xiaoqiang and Yan, Jiaqi and Mo, Yilin},
+  journal={IEEE Transactions on Signal Processing},
+  volume={66},
+  number={6},
+  pages={1454--1468},
+  year={2018},
+  publisher={IEEE}
+}

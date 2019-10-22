@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU.txt}{publications.html}
+= Publications
+
+If you have any problem in accessing the following papers online, please feel free to contact me.
+== Preprints
+. *Xiaoqiang Ren*, Yilin Mo, Jie Chen, and Karl H. Johansson, /Secure State Estimation with Byzantine Sensors: A Probabilistic Approach/, IEEE Transactions on Automatic Control, Submitted. [https://arxiv.org/abs/1903.05698 \[arXiv\]]
+== Journal Papers
+. Shuang Wu, *Xiaoqiang Ren\**, Yiguang Hong and Ling Shi, A Game-theoretic Perspective on Max-Min Fair Sensor Scheduling, IEEE Transactions on Automatic Control, Conditionally accepted.
+. Kemi Ding, *Xiaoqiang Ren\**, Daniel E. Quevedo, Subhrakanti Dey and Ling Shi, Deception-based Strategic Transmission for Remote State Estimation under DoS Attacks, Automatica, To appear. Regular paper.
+. Jiazheng Wang, *Xiaoqiang Ren\**, Yilin Mo and Ling Shi, Whittle's Index Policy for Dynamic Multi-channel Allocation for Remote State Estimation, IEEE Transactions on Automatic Control, to appear. Full paper.
+. Kemi Ding, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, DoS Attacks on Remote State Estimation with Asymmetric Information, IEEE Transactions on Control of Network Systems, To appear. Full paper.
+. *Xiaoqiang Ren* and Yilin Mo, [xiaoqiang_tsp18_security_investment.pdf /Secure Detection: Performance Metric and Sensor Deployment Strategy/], IEEE Transactions on Signal Processing, Volume 66, Issue. 17, Pages 4450-4460, 2018. Full Paper. 
+. Shuang Wu, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, [shuang_automatica18.pdf /Optimal Scheduling of Multiple Sensors over Shared Channels with Packet Transmission Constraint/], Automatica, Volume 96, Pages 22-31, 2018. Regular paper.  
+. *Xiaoqiang Ren*, Jiaqi Yan and Yilin Mo, [xiaoqiang_tsp18_security_efficiency_tradeoff.pdf /Binary Hypothesis Testing with Byzantine Sensors: Fundamental Trade-off Between Security and Efficiency/], IEEE Transactions on Signal Processing, Volume 66, Issue. 6, Pages 1454-1468, 2018. Full Paper. {{<font color=green size=+0.5><b>}}[tradeoff_slides.pdf \[Slides\]]{{</b></font>}}
+. Chao Yang, Jianying Zheng, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, [chao_TAC17_multi-sensor.pdf /Multi-Sensor Kalman Filtering with Intermittent Measurements/], IEEE Transactions on Automatic Control, Volume 63, Issue 3, Pages 797 -- 804, 2018.  
+. *Xiaoqiang Ren*, Junfeng Wu, Subhrakanti Dey and Ling Shi, [xiaoqiang_auto17_multi-armed_bandit.pdf /Attack Allocation on Remote State Estimation in Multi-Systems: Structural Results and Asymptotic Solution/], Automatica, Volume 87, Pages 184-194, January 2018. Regular Paper.
+. *Xiaoqiang Ren*, Junfeng Wu, Karl H. Johansson, Guodong Shi and Ling Shi,  [xiaoqiang_TAC17_event_based_power.pdf /Infinite Horizon Optimal Transmission Power Control for Remote State Estimation over Fading Channels/], IEEE Transactions on Automatic Control, Volume: 63, Issue:1, Pages 85-100, 2018. Full Paper. 
+. *Xiaoqiang Ren*, Karl H. Johansson and Ling Shi, [xiaoqiang_TAC17_QCD_observation_scheduling.pdf /Quickest Change Detection with Observation Scheduling/], IEEE Transactions on Automatic Control, Volume 62, No. 6, Pages 2635 - 2647, 2017. Full paper.
+. *Xiaoqiang Ren*, Karl H. Johansson, Dawei Shi and Ling Shi, [xiaoqiang_TCNS17_QCD_adaptive_censoring.pdf /Quickest Change Detection in Adaptive Censoring Networks/], IEEE Transactions on Control of Network Systems, Volume 5, No. 1, Pages 239 - 250, 2018. Full Paper.
+. Junfeng Wu, *Xiaoqiang Ren*, Duo Han, Dawei Shi and Ling Shi, [junfeng_Auto16_stochastic_event_based.pdf /Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications/], Automatica, Volume 72, Pages 100 - 107, 2016. 
+. Chao Yang, Junfeng Wu, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, [chao_TSP15_sensor_selection_kalman_filter.pdf /Deterministic Sensor Selection for Centralized State Estimation Under Limited Communication Resource/],  IEEE Transactions on Signal Processing, Volume 63, Issue 9, Pages 2336 - 2348, 2015. Full Paper.
+== Conference Papers
+. Xingkang He, *Xiaoqiang Ren*, Henrik Sandberg, and Karl H. Johansson, /Secure Distributed Filtering for Unstable Dynamics Under Compromised Observations/, The 58th IEEE Conference on Decision and Control, Nice, France, Dec 2019.
+. *Xiaoqiang Ren*, Yilin Mo and Karl H. Johansson, /Secure Static State Estimation: A Large Deviation Approach/, 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys), Groningen, Netherlands, August 2018. 
+. *Xiaoqiang Ren* and Yilin Mo, /Multiple Hypothesis Testing in Adversarial Environments: A Game-theoretic Approach/, 2018 American Control Conference, Milwaukee, USA, June 2018. 
+. Qipeng Liu, *Xiaoqiang Ren* and Yilin Mo, /Secure and Privacy Preserving Average Consensus/, The 2017 Asian Control Conference, Gold Coast, Australia, Dec 2017.
+. Jiaqi Yan, *Xiaoqiang Ren* and Yilin Mo, /Sequential Detection in Adversarial Environment/, The 56th IEEE Conference on Decision and Control, Melbourne, Australia, Dec 2017.
+. Xinghua Liu, Yilin Mo and *Xiaoqiang Ren*, /Security Analysis of Continuous-Time Cyber-Physical System Against Sensor Attacks/, 13th Conference on Automation Science and Engineering, Xi'an, China, August 2017.
+. Shuang Wu, *Xiaoqiang Ren*, Subhrakanti Dey, Ling Shi, /Optimal Scheduling of Multiple Sensors with Packet Length Constraint/, The 20th World Congress of the International Federation of Automatic Control, Toulouse,
+France, July 2017.
+. Kemi Ding, *Xiaoqiang Ren* and Ling Shi, /Deception-based Sensor Scheduling for Remote Estimation under DoS Attacks/, 6th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys), Tokyo, Japan, September 2016.
+. Chao Yang, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi,  /Jamming Attack in Centralized State Estimation/,  34th Chinese Control Conference, Hangzhou, China, July 2015.
+. *Xiaoqiang Ren*, Yilin Mo and Ling Shi, /Optimal DoS Attacks on Bayesian Quickest Change Detection/, The 53rd IEEE Conference on Decision and Control, Los Angeles, CA, USA, Dec 2014.
+. *Xiaoqiang Ren* and Ling Shi, /Decentralized Detection with Censoring Sensors over a Packet-dropping Network/, The 19th World Congress of the International Federation of Automatic Control, Cape Town, South Africa, Aug 2014.
+. Chao Yang, *Xiaoqiang Ren*, Jianying Zheng and Ling Shi, /Sensor Scheduling for Communication Resource Minimization in Centralized State Estimation/, 
+   IEEE International Conference on Information and Automation \& IEEE International Conference on Automation and Logistics,  Hulun Buir, Inner Mongolia, China, July 2014. 
+. *Xiaoqiang Ren* and Ling Shi,  /Bayesian Quickest Change Detection under Energy Constraints over Wireless Sensor Networks with Correlated Fading Channels/, 
+   The 11th IEEE International Conference on Control \& Automation, Taichung, Taiwan, June 2014.
+   
+   

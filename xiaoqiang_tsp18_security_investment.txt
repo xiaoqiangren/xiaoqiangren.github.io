@@ -1,0 +1,5 @@
+@article{ren2018secure,
+  title={Secure Detection: Performance Metric and Sensor Deployment Strategy},
+  author={Ren, Xiaoqiang and Mo, Yilin},
+  journal={IEEE Transactions on Signal Processing, DOI:10.1109/TSP.2018.2853110},
+}

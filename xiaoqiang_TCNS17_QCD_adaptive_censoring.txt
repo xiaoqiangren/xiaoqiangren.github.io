@@ -1,0 +1,10 @@
+@article{ren2018quickest,
+  title={Quickest change detection in adaptive censoring sensor networks},
+  author={Ren, Xiaoqiang and Johansson, Karl H and Shi, Dawei and Shi, Ling},
+  journal={IEEE Transactions on Control of Network Systems},
+  volume={5},
+  number={1},
+  pages={239--250},
+  year={2018},
+  publisher={IEEE}
+}
