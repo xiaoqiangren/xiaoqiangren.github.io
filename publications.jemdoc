@@ -2,24 +2,36 @@
 = Publications
 
 If you have any problem in accessing the following papers online, please feel free to contact me.
-== Preprints
-. *Xiaoqiang Ren*, Yilin Mo, Jie Chen, and Karl H. Johansson, /Secure State Estimation with Byzantine Sensors: A Probabilistic Approach/, IEEE Transactions on Automatic Control, Submitted. [https://arxiv.org/abs/1903.05698 \[arXiv\]]
-== Journal Papers
-. Shuang Wu, *Xiaoqiang Ren\**, Yiguang Hong and Ling Shi, A Game-theoretic Perspective on Max-Min Fair Sensor Scheduling, IEEE Transactions on Automatic Control, Conditionally accepted.
-. Kemi Ding, *Xiaoqiang Ren\**, Daniel E. Quevedo, Subhrakanti Dey and Ling Shi, Deception-based Strategic Transmission for Remote State Estimation under DoS Attacks, Automatica, To appear. Regular paper.
-. Jiazheng Wang, *Xiaoqiang Ren\**, Yilin Mo and Ling Shi, Whittle's Index Policy for Dynamic Multi-channel Allocation for Remote State Estimation, IEEE Transactions on Automatic Control, to appear. Full paper.
-. Kemi Ding, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, DoS Attacks on Remote State Estimation with Asymmetric Information, IEEE Transactions on Control of Network Systems, To appear. Full paper.
-. *Xiaoqiang Ren* and Yilin Mo, [xiaoqiang_tsp18_security_investment.pdf /Secure Detection: Performance Metric and Sensor Deployment Strategy/], IEEE Transactions on Signal Processing, Volume 66, Issue. 17, Pages 4450-4460, 2018. Full Paper. 
-. Shuang Wu, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, [shuang_automatica18.pdf /Optimal Scheduling of Multiple Sensors over Shared Channels with Packet Transmission Constraint/], Automatica, Volume 96, Pages 22-31, 2018. Regular paper.  
-. *Xiaoqiang Ren*, Jiaqi Yan and Yilin Mo, [xiaoqiang_tsp18_security_efficiency_tradeoff.pdf /Binary Hypothesis Testing with Byzantine Sensors: Fundamental Trade-off Between Security and Efficiency/], IEEE Transactions on Signal Processing, Volume 66, Issue. 6, Pages 1454-1468, 2018. Full Paper. {{<font color=green size=+0.5><b>}}[tradeoff_slides.pdf \[Slides\]]{{</b></font>}}
-. Chao Yang, Jianying Zheng, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, [chao_TAC17_multi-sensor.pdf /Multi-Sensor Kalman Filtering with Intermittent Measurements/], IEEE Transactions on Automatic Control, Volume 63, Issue 3, Pages 797 -- 804, 2018.  
-. *Xiaoqiang Ren*, Junfeng Wu, Subhrakanti Dey and Ling Shi, [xiaoqiang_auto17_multi-armed_bandit.pdf /Attack Allocation on Remote State Estimation in Multi-Systems: Structural Results and Asymptotic Solution/], Automatica, Volume 87, Pages 184-194, January 2018. Regular Paper.
+== Selected Journal Papers
+. Jiazheng Wang, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, /Remote State Estimation with
+Usage-dependent Markovian Packet Losses/, Automatica, to appear.
+. Shuang Wu, *Xiaoqiang Ren\**, Yiguang Hong and Ling Shi, /Max-min Fair Sensor Scheduling: Game-Theoretic Perspective and Algorithmic Solution/, IEEE Transactions on Automatic Control, to appear.
+. Kemi Ding, *Xiaoqiang Ren\**, Alex Leong, Daniel Quevedo, and Ling Shi, /Remote State Estimation
+in the Presence of an Active Eavesdropper/, IEEE Transactions on Automatic Control, Volume 66,
+Issue 1, Pages 229-244, Jan. 2021. Full paper.
+. *Xiaoqiang Ren*, Yilin Mo, Jie Chen, and Karl H. Johansson, [probabilistic_approach.pdf /Secure State Estimation with Byzantine Sensors: A Probabilistic Approach/], IEEE Transactions on Automatic Control, Volume 65, Issue 9, Pages 3742-3757, Sep 2020. Full paper.
+. Shuang Wu, *Xiaoqiang Ren\**, (Samuel) Qing-Shan Jia, Karl H. Johansson, and Ling Shi, /Learning
+Optimal Scheduling Policy for Remote State Estimation under Uncertain Channel Condition/, IEEE
+Transactions on Control of Network Systems, Volume 7, Issue 2, Pages 579-591, June 2020.
+. Kemi Ding, *Xiaoqiang Ren\**, Daniel E. Quevedo, Subhrakanti Dey and Ling Shi, /Defensive deception
+against reactive jamming attacks in remote state estimation/, Automatica, Volume 113, March
+2020, 108680. Regular paper.
+. Jiazheng Wang, *Xiaoqiang Ren\**, Yilin Mo and Ling Shi, /Whittle's Index Policy for Dynamic Multi-channel Allocation for Remote State Estimation/, IEEE Transactions on Automatic Control, Volume:
+65, Issue:2, Pages: 591-603, Feb 2020. Full paper.
+. Kemi Ding, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, /DoS Attacks on Remote State Estimation with Asymmetric Information/, IEEE Transactions on Control of Network Systems, Volume: 6, Issue: 2, Pages: 653-666, June 2019.
+. *Xiaoqiang Ren* and Yilin Mo, /Secure Detection: Performance Metric and Sensor Deployment Strategy/, IEEE Transactions on Signal Processing, Volume 66, Issue. 17, Pages 4450-4460, 2018. 
+. Shuang Wu, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, /Optimal Scheduling of Multiple Sensors over Shared Channels with Packet Transmission Constraint/, Automatica, Volume 96, Pages 22-31, 2018. Regular paper.  
+. *Xiaoqiang Ren*, Jiaqi Yan and Yilin Mo, [xiaoqiang_tsp18_security_efficiency_tradeoff.pdf /Binary Hypothesis Testing with Byzantine Sensors: Fundamental Trade-off Between Security and Efficiency/], IEEE Transactions on Signal Processing, Volume 66, Issue. 6, Pages 1454-1468, 2018.  
+. Chao Yang, Jianying Zheng, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi,  /Multi-Sensor Kalman Filtering with Intermittent Measurements/, IEEE Transactions on Automatic Control, Volume 63, Issue 3, Pages 797 -- 804, 2018.  
+. *Xiaoqiang Ren*, Junfeng Wu, Subhrakanti Dey and Ling Shi, /Attack Allocation on Remote State Estimation in Multi-Systems: Structural Results and Asymptotic Solution/, Automatica, Volume 87, Pages 184-194, January 2018. Regular Paper.
 . *Xiaoqiang Ren*, Junfeng Wu, Karl H. Johansson, Guodong Shi and Ling Shi,  [xiaoqiang_TAC17_event_based_power.pdf /Infinite Horizon Optimal Transmission Power Control for Remote State Estimation over Fading Channels/], IEEE Transactions on Automatic Control, Volume: 63, Issue:1, Pages 85-100, 2018. Full Paper. 
-. *Xiaoqiang Ren*, Karl H. Johansson and Ling Shi, [xiaoqiang_TAC17_QCD_observation_scheduling.pdf /Quickest Change Detection with Observation Scheduling/], IEEE Transactions on Automatic Control, Volume 62, No. 6, Pages 2635 - 2647, 2017. Full paper.
-. *Xiaoqiang Ren*, Karl H. Johansson, Dawei Shi and Ling Shi, [xiaoqiang_TCNS17_QCD_adaptive_censoring.pdf /Quickest Change Detection in Adaptive Censoring Networks/], IEEE Transactions on Control of Network Systems, Volume 5, No. 1, Pages 239 - 250, 2018. Full Paper.
-. Junfeng Wu, *Xiaoqiang Ren*, Duo Han, Dawei Shi and Ling Shi, [junfeng_Auto16_stochastic_event_based.pdf /Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications/], Automatica, Volume 72, Pages 100 - 107, 2016. 
-. Chao Yang, Junfeng Wu, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi, [chao_TSP15_sensor_selection_kalman_filter.pdf /Deterministic Sensor Selection for Centralized State Estimation Under Limited Communication Resource/],  IEEE Transactions on Signal Processing, Volume 63, Issue 9, Pages 2336 - 2348, 2015. Full Paper.
-== Conference Papers
+. *Xiaoqiang Ren*, Karl H. Johansson and Ling Shi, /Quickest Change Detection with Observation Scheduling/, IEEE Transactions on Automatic Control, Volume 62, No. 6, Pages 2635 - 2647, 2017. Full paper.
+. *Xiaoqiang Ren*, Karl H. Johansson, Dawei Shi and Ling Shi,  /Quickest Change Detection in Adaptive Censoring Networks/, IEEE Transactions on Control of Network Systems, Volume 5, No. 1, Pages 239 - 250, 2018. 
+. Junfeng Wu, *Xiaoqiang Ren*, Duo Han, Dawei Shi and Ling Shi, /Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications/, Automatica, Volume 72, Pages 100 - 107, 2016. 
+. Chao Yang, Junfeng Wu, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi,  /Deterministic Sensor Selection for Centralized State Estimation Under Limited Communication Resource/,  IEEE Transactions on Signal Processing, Volume 63, Issue 9, Pages 2336 - 2348, 2015. 
+== Selected Conference Papers
+. Kemi Ding, *Xiaoqiang Ren*, Hongsheng Qi, Guodong Shi, Xiaofan Wang, and Ling Shi, /Dynamic Pricing for Power Control in Remote State Estimation/, The 21st IFAC World Congress, Berlin, Germany, July 12-17, 2020.
+. Yulong Gao, Frank J. Jiang, *Xiaoqiang Ren*, Lihua Xie, and Karl H. Johansson, /Reachability-based Human-in-the-Loop Control with Uncertain Specifications/, The 21st IFAC World Congress, Berlin, Germany, July 12-17, 2020.
 . Xingkang He, *Xiaoqiang Ren*, Henrik Sandberg, and Karl H. Johansson, /Secure Distributed Filtering for Unstable Dynamics Under Compromised Observations/, The 58th IEEE Conference on Decision and Control, Nice, France, Dec 2019.
 . *Xiaoqiang Ren*, Yilin Mo and Karl H. Johansson, /Secure Static State Estimation: A Large Deviation Approach/, 7th IFAC Workshop on Distributed Estimation and Control in Networked Systems (NecSys), Groningen, Netherlands, August 2018. 
 . *Xiaoqiang Ren* and Yilin Mo, /Multiple Hypothesis Testing in Adversarial Environments: A Game-theoretic Approach/, 2018 American Control Conference, Milwaukee, USA, June 2018. 
