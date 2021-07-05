@@ -3,9 +3,17 @@
 
 If you have any problem in accessing the following papers online, please feel free to contact me.
 == Selected Journal Papers
+. Xingkang He, *Xiaoqiang Ren\**, Henrik Sandberg, Karl H. Johansson, /How to Secure Distributed
+Filters Under Sensor Attacks/, IEEE Transactions on Automatic Control, To appear. Full paper.
+. Kemi Ding, *Xiaoqiang Ren\**, Hongsheng Qi, Guodong Shi, Xiaofan Wang, Ling Shi, /Interference
+Game for Intelligent Sensors in Cyber-Physical Systems/, Automatica, Volume 129, 109668, July 2021.
+Regular paper.
+. Yuqing Ni, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, /Remote State Estimation with a Strategic
+Sensor Using a Stackelberg Game Framework/, IEEE Transactions on Control of Network Systems,
+to appear.
 . Jiazheng Wang, *Xiaoqiang Ren\**, Subhrakanti Dey and Ling Shi, /Remote State Estimation with
-Usage-dependent Markovian Packet Losses/, Automatica, to appear.
-. Shuang Wu, *Xiaoqiang Ren\**, Yiguang Hong and Ling Shi, /Max-min Fair Sensor Scheduling: Game-Theoretic Perspective and Algorithmic Solution/, IEEE Transactions on Automatic Control, to appear.
+Usage-dependent Markovian Packet Losses/, Automatica, Volume 123, 109342, Jan. 2021.
+. Shuang Wu, *Xiaoqiang Ren\**, Yiguang Hong and Ling Shi, /Max-min Fair Sensor Scheduling: Game-Theoretic Perspective and Algorithmic Solution/, IEEE Transactions on Automatic Control, Volume 66, Issue 5, Pages 2379-2385, May 2021.
 . Kemi Ding, *Xiaoqiang Ren\**, Alex Leong, Daniel Quevedo, and Ling Shi, /Remote State Estimation
 in the Presence of an Active Eavesdropper/, IEEE Transactions on Automatic Control, Volume 66,
 Issue 1, Pages 229-244, Jan. 2021. Full paper.
@@ -30,6 +38,9 @@ against reactive jamming attacks in remote state estimation/, Automatica, Volume
 . Junfeng Wu, *Xiaoqiang Ren*, Duo Han, Dawei Shi and Ling Shi, /Finite-horizon Gaussianity-Preserving Event-based Sensor Scheduling in Kalman Filter Applications/, Automatica, Volume 72, Pages 100 - 107, 2016. 
 . Chao Yang, Junfeng Wu, *Xiaoqiang Ren*, Wen Yang, Hongbo Shi and Ling Shi,  /Deterministic Sensor Selection for Centralized State Estimation Under Limited Communication Resource/,  IEEE Transactions on Signal Processing, Volume 63, Issue 9, Pages 2336 - 2348, 2015. 
 == Selected Conference Papers
+. Dafa Ren, *Xiaoqiang Ren*, Xiaofan Wang, S. Tejaswi Diguma, and Guodong Shi, /Fast-Learning Grasping and Pre-Grasping via Clutter Quantization and Q-map Masking/, 2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Prague, Czech, Sept. 27-Oct. 1, 2021.
+. Xiaochang Chen, Jieqiang Wei, *Xiaoqiang Ren*, Karl H. Johansson, Xiaofan Wang, /Automatic Over-taking on Two-way Roads with Vehicle Interactions Based on Deep Reinforcement Learning/, 32nd IEEE Intelligent Vehicles Symposium (IV), Nagoya, Japan, July 11-15, 2021.
+. Lin Zhu, Jieqiang Wei, *Xiaoqiang Ren*, and Xiaofan Wang, /Enclose a Target with Multiple Nonholonomic Agents/, 16th International Conference on Control, Automation, Robotics and Vision (ICARCV), Shenzhen, China, December 13 -15, 2020.
 . Kemi Ding, *Xiaoqiang Ren*, Hongsheng Qi, Guodong Shi, Xiaofan Wang, and Ling Shi, /Dynamic Pricing for Power Control in Remote State Estimation/, The 21st IFAC World Congress, Berlin, Germany, July 12-17, 2020.
 . Yulong Gao, Frank J. Jiang, *Xiaoqiang Ren*, Lihua Xie, and Karl H. Johansson, /Reachability-based Human-in-the-Loop Control with Uncertain Specifications/, The 21st IFAC World Congress, Berlin, Germany, July 12-17, 2020.
 . Xingkang He, *Xiaoqiang Ren*, Henrik Sandberg, and Karl H. Johansson, /Secure Distributed Filtering for Unstable Dynamics Under Compromised Observations/, The 58th IEEE Conference on Decision and Control, Nice, France, Dec 2019.
